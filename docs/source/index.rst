@@ -1,16 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to genotype data analysis documentation GRIAC
 ===================================
-Lumache has its documentation hosted on Read the Docs.
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
+ThLumache has its documentation hosted on Read the Docs.
+**Lumachmentation is intended to support anyone trying to analyze genotype data from raw intensity data to 
+ different downstream analysis for GWAS. and offers a *simple* and *intuitive* API.
+There are different `sections` to guide you through the workflow of genotype data analysis.
 .. note::
-
    This project is under active development.
 
 Contents
@@ -18,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
+   sections
    api
